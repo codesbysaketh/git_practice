@@ -1,0 +1,2 @@
+this is the note taking file created in git practice folder
+

@@ -1,2 +1,0 @@
-My name is Saketh Ram
-This is my first entry into the names.txt file
